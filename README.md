@@ -21,7 +21,7 @@
 ![4](img/4.png)
 
 4. Convenient clipboard under the "Creata a Record"
-- The "Creata a Record" interface will keep active when you are submitting a record.
+- The "Create a Record" interface will keep active when you are submitting a record.
 - You can use the clipboard to store information that you want to paste to the job application form in another webpage.
 - Please click the "copy" button to copy the text to your computer's clipboard, and the text will be saved automatically.
 ![5](img/5.png)
